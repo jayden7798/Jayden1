@@ -47,7 +47,7 @@ function App() {
         {/* Profile Section */}
         <div className="text-center px-8 -mt-12">
           <h1 className="text-6xl md:text-7xl font-cal font-semibold tracking-tightest bg-gradient-to-r from-zinc-100 to-zinc-400 bg-clip-text text-transparent leading-relaxed pb-4">
-            building companies, strategies & boulders
+            I like building cool things
           </h1>
         </div>
 
@@ -141,6 +141,11 @@ function App() {
             </div>
           </div>
         </div>
+      </div>
+
+      {/* Copyright Footer */}
+      <div className="absolute bottom-4 text-sm text-zinc-500 font-light">
+        © 2025 jaydenshepherd
       </div>
     </div>
   );
