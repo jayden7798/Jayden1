@@ -12,11 +12,6 @@ function App() {
       name: "Instagram",
       image: "https://cdn.simpleicons.org/instagram/E4405F",
       href: "https://www.instagram.com/jaydenshepherd___/"
-    },
-    {
-      name: "YouTube",
-      image: "https://cdn.simpleicons.org/youtube/FF0000",
-      href: "https://www.youtube.com/@jayden.shepherd"
     }
   ];
 
